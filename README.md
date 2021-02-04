@@ -6,6 +6,9 @@
 
 Please refer to the [Development Guide](DEVELOPMENT_GUIDE.txt) for details. 这里是中文版: [开发指南](开发指南.txt)
 
+## Install
+To download the deb file from this link https://github.com/TonyRobotics/RoboWare/tree/master/Studio, after you download the deb fiel  then double click it 
+
 ## License
 
 Copyright (c) Jinan Tony Robotics Co., Ltd. All rights reserved.
